@@ -40,5 +40,15 @@
             {"sex": "female", "duration": "2:23"}
         ],
         "closing prayer": "female"
+    },
+    {
+        "date": "2023-07-09",
+        "meeting": "regular",
+        "opening prayer": "female",
+        "speakers": [
+            {"sex": "female", "duration": "15:21"},
+            {"sex": "male", "duration": "16:29"}
+        ],
+        "closing prayer": "male"
     }
 ]
