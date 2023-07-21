@@ -11,6 +11,38 @@
         "closing prayer": "male"
     },
     {
+        "date": "2023-06-04",
+        "meeting": "fast sunday",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "male", "duration": "3:00"},
+            {"sex": "female", "duration": "0:30"},
+            {"sex": "female", "duration": "0:30"},
+            {"sex": "female", "duration": "1:00"},
+            {"sex": "male", "duration": "2:00"},
+            {"sex": "female", "duration": "0:30"},
+            {"sex": "female", "duration": "3:00"},
+            {"sex": "female", "duration": "1:00"},
+            {"sex": "female", "duration": "2:00"},
+            {"sex": "male", "duration": "8:00"},
+            {"sex": "male", "duration": "3:00"},
+            {"sex": "female", "duration": "2:00"},
+            {"sex": "female", "duration": "5:00"},
+            {"sex": "female", "duration": "4:00"}
+        ]
+    },
+    {
+        "date": "2023-06-11",
+        "meeting": "regular",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "male", "duration": "10:00"},
+            {"sex": "male", "duration": "10:00"},
+            {"sex": "male", "duration": "5:00"}
+        ],
+        "closing prayer": "male"
+    },
+    {
         "date": "2023-06-25",
         "meeting": "regular",
         "opening prayer": "male",
