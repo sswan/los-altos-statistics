@@ -96,5 +96,15 @@
             {"sex": "male", "duration": "9:52"}
         ],
         "closing prayer": "male"
+    },
+    {
+        "date": "2023-07-23",
+        "meeting": "regular",
+        "opening prayer": "female",
+        "speakers": [
+            {"sex": "male", "duration": "7:45"},
+            {"sex": "female", "duration": "16:02"}
+        ],
+        "closing prayer": "male"
     }
 ]
