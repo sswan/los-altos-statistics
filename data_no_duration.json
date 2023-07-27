@@ -1,0 +1,92 @@
+[
+    {
+        "date": "2023-01-22",
+        "meeting": "regular",
+        "speakers": ["female", "male"]
+    },
+    {
+        "date": "2023-01-29",
+        "meeting": "regular",
+        "speakers": ["female", "male", "male"]
+    },
+    {
+        "date": "2023-02-12",
+        "meeting": "regular",
+        "speakers": ["female", "female"]
+    },
+    {
+        "date": "2023-02-19",
+        "meeting": "regular",
+        "speakers": ["female", "male", "male"]
+    },
+    {
+        "date": "2023-02-26",
+        "meeting": "regular",
+        "speakers": ["female", "male"]
+    },
+    {
+        "date": "2023-03-12",
+        "meeting": "regular",
+        "speakers": ["male", "female", "male"]
+    },
+    {
+        "date": "2023-03-19",
+        "meeting": "regular",
+        "speakers": ["female", "male", "male"]
+    },
+    {
+        "date": "2023-04-23",
+        "meeting": "regular",
+        "speakers": ["female", "male"]
+    },
+    {
+        "date": "2023-04-30",
+        "meeting": "regular",
+        "speakers": ["female", "male"]
+    },
+    {
+        "date": "2023-05-14",
+        "meeting": "regular",
+        "speakers": ["male", "female", "male"]
+    },
+    {
+        "date": "2023-05-21",
+        "meeting": "regular",
+        "speakers": ["male", "female"]
+    },
+    {
+        "date": "2023-05-28",
+        "meeting": "regular",
+        "speakers": ["female", "female", "male"]
+    },
+    {
+        "date": "2023-06-11",
+        "meeting": "regular",
+        "speakers": ["male", "male"]
+    },
+    {
+        "date": "2023-06-18",
+        "meeting": "regular",
+        "speakers": ["female", "female"]
+    },
+    {
+        "date": "2023-06-25",
+        "meeting": "regular",
+        "speakers": ["female", "male"]
+    },
+    {
+        "date": "2023-07-09",
+        "meeting": "regular",
+        "speakers": ["female", "male"]
+    },
+    {
+        "date": "2023-07-16",
+        "meeting": "regular",
+        "speakers": ["male", "male"]
+    },
+    {
+        "date": "2023-07-23",
+        "meeting": "regular",
+        "speakers": ["male", "female"]
+    }
+]
