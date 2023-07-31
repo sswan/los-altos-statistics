@@ -106,5 +106,25 @@
             {"sex": "female", "duration": "16:02"}
         ],
         "closing prayer": "male"
+    },
+    {
+        "date": "2023-07-30",
+        "meeting": "fast sunday",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "male", "duration": "3:37"},
+            {"sex": "female", "duration": "0:09"},
+            {"sex": "male", "duration": "5:19"},
+            {"sex": "female", "duration": "0:15"},
+            {"sex": "male", "duration": "4:32"},
+            {"sex": "female", "duration": "0:22"},
+            {"sex": "male", "duration": "2:09"},
+            {"sex": "female", "duration": "0:16"},
+            {"sex": "female", "duration": "2:39"},
+            {"sex": "male", "duration": "1:35"},
+            {"sex": "female", "duration": "0:50"},
+            {"sex": "male", "duration": "1:46"}
+        ],
+        "closing prayer": "female"
     }
 ]
