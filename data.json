@@ -126,5 +126,24 @@
             {"sex": "male", "duration": "1:46"}
         ],
         "closing prayer": "female"
+    },
+    {
+        "date": "2023-08-06",
+        "meeting": "stake conference",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "female", "duration": "9:45"},
+            {"sex": "male", "duration": "13:02"},
+            {"sex": "female", "duration": "7:04"},
+            {"sex": "male", "duration": "1:57"},
+            {"sex": "male", "duration": "10:16"},
+            {"sex": "female", "duration": "7:27"},
+            {"sex": "male", "duration": "12:54"},
+            {"sex": "female", "duration": "9:50"},
+            {"sex": "male", "duration": "5:48"},
+            {"sex": "female", "duration": "10:19"},
+            {"sex": "male", "duration": "4:41"}
+        ],
+        "closing prayer": "female"
     }
 ]
