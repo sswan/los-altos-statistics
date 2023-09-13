@@ -197,5 +197,15 @@
             {"sex": "female", "duration": "1:33"}
         ],
         "closing prayer": "female"
+    },
+    {
+        "date": "2023-09-10",
+        "meeting": "regular",
+        "opening prayer": "female",
+        "speakers": [
+            {"sex": "female", "duration": "18:53"},
+            {"sex": "female", "duration": "7:29"}
+        ],
+        "closing prayer": "female"
     }
 ]
