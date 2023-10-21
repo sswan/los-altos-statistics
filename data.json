@@ -207,5 +207,45 @@
             {"sex": "female", "duration": "7:29"}
         ],
         "closing prayer": "female"
+    },
+    {
+        "date": "2023-09-17",
+        "meeting": "regular",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "male", "duration": "17:55"},
+            {"sex": "female", "duration": "15:28"}
+        ],
+        "closing prayer": "female"
+    },
+    {
+        "date": "2023-10-08",
+        "meeting": "fast sunday",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "male", "duration": "5:13"},
+            {"sex": "female", "duration": "0:09"},
+            {"sex": "male", "duration": "1:34"},
+            {"sex": "male", "duration": "7:14"},
+            {"sex": "male", "duration": "1:39"},
+            {"sex": "male", "duration": "0:33"},
+            {"sex": "female", "duration": "0:43"},
+            {"sex": "female", "duration": "1:26"},
+            {"sex": "female", "duration": "0:07"},
+            {"sex": "male", "duration": "1:01"},
+            {"sex": "male", "duration": "0:04"},
+            {"sex": "female", "duration": "4:08"}
+        ],
+        "closing prayer": "female"
+    },
+    {
+        "date": "2023-10-15",
+        "meeting": "regular",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "female", "duration": "13:19"},
+            {"sex": "female", "duration": "10:36"}
+        ],
+        "closing prayer": "male"
     }
 ]

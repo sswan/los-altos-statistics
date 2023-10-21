@@ -108,5 +108,15 @@
         "date": "2023-09-10",
         "meeting": "regular",
         "speakers": ["female", "female"]
+    },
+    {
+        "date": "2023-09-17",
+        "meeting": "regular",
+        "speakers": ["male", "female"]
+    },
+    {
+        "date": "2023-10-15",
+        "meeting": "regular",
+        "speakers": ["female", "female"]
     }
 ]
