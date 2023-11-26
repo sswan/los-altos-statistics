@@ -247,5 +247,69 @@
             {"sex": "female", "duration": "10:36"}
         ],
         "closing prayer": "male"
+    },
+    {
+        "date": "2023-10-29",
+        "meeting": "regular",
+        "opening prayer": "female",
+        "speakers": [
+            {"sex": "male", "duration": "16:31"},
+            {"sex": "female", "duration": "12:55"}
+        ],
+        "closing prayer": "male"
+    },
+    {
+        "date": "2023-11-05",
+        "meeting": "fast sunday",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "male", "duration": "3:43"},
+            {"sex": "female", "duration": "0:38"},
+            {"sex": "female", "duration": "0:08"},
+            {"sex": "male", "duration": "1:34"},
+            {"sex": "female", "duration": "3:29"},
+            {"sex": "female", "duration": "0:55"},
+            {"sex": "male", "duration": "1:29"},
+            {"sex": "male", "duration": "0:28"},
+            {"sex": "male", "duration": "0:46"},
+            {"sex": "female", "duration": "1:14"},
+            {"sex": "female", "duration": "4:24"},
+            {"sex": "male", "duration": "1:03"},
+            {"sex": "male", "duration": "7:11"}
+        ],
+        "closing prayer": "male"
+    },
+    {
+        "date": "2023-11-12",
+        "meeting": "regular",
+        "opening prayer": "female",
+        "speakers": [
+            {"sex": "female", "duration": "22:48"},
+            {"sex": "male", "duration": "10:03"}
+        ],
+        "closing prayer": "male"
+    },
+    {
+        "date": "2023-11-19",
+        "meeting": "regular",
+        "opening prayer": "female",
+        "speakers": [
+            {"sex": "male", "duration": "14:19"},
+            {"sex": "female", "duration": "15:47"}
+        ],
+        "closing prayer": "male"
+    },
+    {
+        "date": "2023-11-26",
+        "meeting": "regular",
+        "opening prayer": "male",
+        "speakers": [
+            {"sex": "male", "duration": "5:04"},
+            {"sex": "female", "duration": "15:38"},
+            {"sex": "female", "duration": "1:10"},
+            {"sex": "male", "duration": "4:10"},
+            {"sex": "male", "duration": "2:44"}
+        ],
+        "closing prayer": "female"
     }
 ]

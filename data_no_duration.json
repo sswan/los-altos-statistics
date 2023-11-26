@@ -118,5 +118,30 @@
         "date": "2023-10-15",
         "meeting": "regular",
         "speakers": ["female", "female"]
+    },
+    {
+        "date": "2023-10-22",
+        "meeting": "regular",
+        "speakers": ["male", "male"]
+    },
+    {
+        "date": "2023-10-29",
+        "meeting": "regular",
+        "speakers": ["male", "female"]
+    },
+    {
+        "date": "2023-11-12",
+        "meeting": "regular",
+        "speakers": ["female", "male"]
+    },
+    {
+        "date": "2023-11-19",
+        "meeting": "regular",
+        "speakers": ["female", "male"]
+    },
+    {
+        "date": "2023-11-26",
+        "meeting": "regular",
+        "speakers": ["male", "female"]
     }
 ]
