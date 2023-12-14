@@ -143,5 +143,10 @@
         "date": "2023-11-26",
         "meeting": "regular",
         "speakers": ["male", "female"]
+    },
+    {
+        "date": "2023-12-10",
+        "meeting": "regular",
+        "speakers": ["male", "male"]
     }
 ]

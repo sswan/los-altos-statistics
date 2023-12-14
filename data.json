@@ -311,5 +311,36 @@
             {"sex": "male", "duration": "2:44"}
         ],
         "closing prayer": "female"
+    },
+    {
+        "date": "2023-12-03",
+        "meeting": "fast sunday",
+        "opening prayer": "female",
+        "speakers": [
+            {"sex": "male", "duration": "3:18"},
+            {"sex": "female", "duration": "0:07"},
+            {"sex": "male", "duration": "1:51"},
+            {"sex": "male", "duration": "1:08"},
+            {"sex": "female", "duration": "0:36"},
+            {"sex": "female", "duration": "3:00"},
+            {"sex": "female", "duration": "1:11"},
+            {"sex": "female", "duration": "3:32"},
+            {"sex": "male", "duration": "4:20"},
+            {"sex": "female", "duration": "4:09"},
+            {"sex": "female", "duration": "2:30"},
+            {"sex": "female", "duration": "3:06"}
+        ],
+        "closing prayer": "female"
+    },
+    {
+        "date": "2023-12-10",
+        "meeting": "regular",
+        "opening prayer": "female",
+        "speakers": [
+            {"sex": "male", "duration": "18:37"},
+            {"sex": "male", "duration": "15:10"}
+        ],
+        "closing prayer": "female"
     }
+ 
 ]
