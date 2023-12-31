@@ -148,5 +148,15 @@
         "date": "2023-12-10",
         "meeting": "regular",
         "speakers": ["male", "male"]
+    },
+    {
+        "date": "2023-12-17",
+        "meeting": "regular",
+        "speakers": ["male", "male", "male"]
+    },
+    {
+        "date": "2023-12-24",
+        "meeting": "regular",
+        "speakers": ["male", "female", "female", "male", "male", "male"]
     }
 ]
